@@ -1,0 +1,112 @@
+.order__item{
+    cursor: pointer;
+}
+
+.order__user{
+    display: flex;
+}
+
+.user__form{
+    width: 74%;
+}
+
+.user__form  .user__table{
+    width: 100%;
+}
+
+.order__user .user__table .espR83{
+    text-align: right;
+    color: rgba(85,85,85,.8);
+    overflow: hidden;
+    padding-bottom: 30px;
+    white-space: nowrap;
+    min-width: 20%;
+}
+
+
+.order__user .user__table .Tmj5Z6{
+    box-sizing: border-box;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+.order__user .IQPHvE{
+    width: 17.5rem;
+    overflow: hidden;
+    border-left: 0.0625rem solid #efefef;
+    justify-content: center;
+    display: flex;
+}
+
+.IQPHvE .scvgOW{
+    flex-direction: column;
+}
+
+.scvgOW, .XWsmVn {
+    align-items: center;
+    display: flex;
+}
+
+.XWsmVn {
+    height: 6.25rem;
+    width: 6.25rem;
+    margin: 1.25rem 0;
+    position: relative;
+}
+
+.XWsmVn {
+    justify-content: center;
+}
+
+.LoNm4g {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px; /* Điều chỉnh độ cao tùy ý */
+  }
+  
+  .LoNm4g img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+  }  
+
+.bMWDYw {
+    display: none;
+}
+
+.btn-light {
+    outline: 0;
+    background: #fff;
+    color: #555;
+    border: 1px solid rgba(0,0,0,.09);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.03);
+    position: relative;
+    overflow: visible;
+}
+
+.btn--m {
+    height: 40px;
+    padding: 0 20px;
+    min-width: 70px;
+    max-width: 220px;
+}
+
+.L4SAGB {
+    margin-top: 0.75rem;
+    display: block;
+}
+
+.SlaeTm {
+    color: #999;
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+
+
+
+.active__tab{
+    
+}
