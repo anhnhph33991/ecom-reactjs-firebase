@@ -1,5 +1,4 @@
 {
-  "homepage": "http://luxchill.github.io/LuxChill/home",
   "name": "maltimart-ecommerce",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +8,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.1",
-    "express": "^4.18.2",
     "firebase": "^9.22.1",
     "framer-motion": "^7.3.2",
     "react": "^18.2.0",
@@ -25,12 +23,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "cbd": "nodemon server.js"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -57,7 +52,6 @@
   "license": "ISC",
   "devDependencies": {
     "dotenv": "^16.1.4",
-    "gh-pages": "^5.0.0",
-    "nodemon": "^2.0.22"
+    "gh-pages": "^5.0.0"
   }
 }
